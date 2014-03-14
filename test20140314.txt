@@ -1,3 +1,4 @@
 create file github
 git clone
 user01 commit 
+user02 add
